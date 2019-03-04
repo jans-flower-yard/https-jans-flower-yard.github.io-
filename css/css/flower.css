@@ -966,18 +966,7 @@ h5 {
 #Footer .widgets_wrapper {
 	position: relative
 }
-#Footer .widgets_wrapper:after {
-	content: "";
-	display: block;
-	width: 260px;
-	height: 165px;
-	background: url(../images/home_flower_footer_pic.png) no-repeat;
-	position: absolute;
-	left: 50%;
-	margin-left: -130px;
-	top: 0;
-	top: -110px
-}
+
 .tp-caption.mfnrsflowerlargedark, .mfnrsflowerlargedark {
 	color: #615450;
 	font-size: 42px;
@@ -1153,18 +1142,7 @@ h5 {
 #Footer .widgets_wrapper {
 	position: relative
 }
-#Footer .widgets_wrapper:after {
-	content: "";
-	display: block;
-	width: 260px;
-	height: 165px;
-	background: url(../images/home_flower_footer_pic.png) no-repeat;
-	position: absolute;
-	left: 50%;
-	margin-left: -130px;
-	top: 0;
-	top: -110px
-}
+
 #gallery-1 {
 	margin: auto
 }

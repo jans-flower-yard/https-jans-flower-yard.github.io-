@@ -74,6 +74,7 @@ h1, h1 a, h1 a:hover, .text-logo #logo {
 }
 h2, h2 a, h2 a:hover {
 	color: #2a2422;
+	/* text-align: center; */
 }
 h3, h3 a, h3 a:hover {
 	color: #615450;
